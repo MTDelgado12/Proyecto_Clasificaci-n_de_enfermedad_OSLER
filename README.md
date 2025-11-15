@@ -27,7 +27,13 @@ Obtener una clasificación binaria a partir de variables médicas, como índice 
 
 ## Dataset
 
-El dataset que se empleó en este proyecto fue extraído de [Kaggle](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data) y es enfocado a la recolección de indicadores de enfermedades cardíacas, estos datos provienen del centro de control de enfermedades y prevención, y es una parte importante del sistema de vigilancia de factores de riesgo conductual que toma indicadores sobre factores que pueden incidir en la toma de decisiones sobre si se tiene o no una enfermedad cardiovascular.
+El dataset que se empleó en este proyecto fue extraído de ([Kaggle](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data)) y es enfocado a la recolección de indicadores de enfermedades cardíacas, estos datos provienen del centro de control de enfermedades y prevención, y es una parte importante del sistema de vigilancia de factores de riesgo conductual que toma indicadores sobre factores que pueden incidir en la toma de decisiones sobre si se tiene o no una enfermedad cardiovascular.
+
+**Características:**
+- Formato CSV.
+- Más de 320.000 registros y 17 indicadores.
+- Una variable o columna target como indicador de presencia de enfermedad
+
 ---
 
 ## Modelos
