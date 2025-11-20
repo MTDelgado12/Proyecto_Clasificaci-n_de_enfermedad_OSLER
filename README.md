@@ -52,5 +52,5 @@ Se evaluaron estos modelos con métricas como Accuracy, Precision, Recall y F1Sc
 - Repositorio de Github: [Proyecto_Clasificación_de_enfermedad_OSLER](https://github.com/MTDelgado12/Proyecto_Clasificaci-n_de_enfermedad_OSLER).
 - Dataset: [Kaggle](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data).
 - Presentación del proyecto: [Canva](https://www.canva.com/design/DAG5K13TU7E/yTKcPWSD39Ln7jQdCEDF1w/edit?utm_content=DAG5K13TU7E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
-- Video del proyecto: [Youtube]().
+- Video del proyecto: [Youtube](https://youtu.be/n7gbscvM2ZE).
 ---
